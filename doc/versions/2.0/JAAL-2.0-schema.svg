@@ -7,8 +7,31 @@
    viewBox="0 0 360.20001 540.20001"
    version="1.1"
    id="svg5"
+   sodipodi:docname="JAAL-2.0-schema.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1823"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.56129673"
+     inkscape:cx="681.45774"
+     inkscape:cy="1020.8504"
+     inkscape:window-width="2560"
+     inkscape:window-height="1355"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2" />
   <g
@@ -553,7 +576,7 @@
        d="m 156,267 1,-1 -1,-1"
        id="path92724" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8, 0.8;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.59999999,1.59999999;stroke-dashoffset:0;stroke-opacity:1"
        d="m 157,266 h 33"
        id="path92726" />
     <rect
@@ -869,7 +892,7 @@
        d="m 88.999999,426 1,-1 -1,-1"
        id="path92724-2-6-0-1-0" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8, 0.8;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.59999999,1.59999999;stroke-dashoffset:0;stroke-opacity:1"
        d="M 89.999999,425 H 147 c 0,-4 6,-4 6,0 h 52 v 55"
        id="path118491-9-2-5" />
     <text
@@ -1027,7 +1050,7 @@
        d="m 197,307 3,3 3,-3"
        id="path179246" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8, 0.8;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.59999999,1.59999999;stroke-dashoffset:0;stroke-opacity:1"
        d="m 155,466 h 40 v 14"
        id="path180320" />
     <path
@@ -1183,7 +1206,7 @@
        d="m 215,46 h 54.99999"
        id="path78494-1" />
     <path
-       style="fill:none;fill-opacity:0.555857;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.8, 0.8;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;fill-opacity:0.555857;stroke:#000000;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.59999999,1.59999999;stroke-dashoffset:0;stroke-opacity:1"
        d="m 250,55.999998 h 20"
        id="path227453" />
     <path
